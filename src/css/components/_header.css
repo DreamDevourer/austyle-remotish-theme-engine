@@ -23,6 +23,11 @@
   width: 100%;
 }
 
+/* Submenu overlap fix */
+.submenu level-2 {
+  z-index: 1;
+}
+
 @media (max-width: 1150px) and (min-width: 767px) {
   .header__column {
     width: 100%;
