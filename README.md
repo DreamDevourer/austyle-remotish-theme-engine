@@ -9,5 +9,5 @@
 <p align="center">
   <a href="https://github.com/DreamDevourer/austyle-theme">Austyle Theme</a> |
   <a href="https://github.com/DreamDevourer/remotish-theme">Remotish Theme</a> |
-  <a href="https://github.com/HubSpot/cms-theme-boilerplate">HubSpot Boilerplate Theme</a> |
+  <a href="https://github.com/HubSpot/cms-theme-boilerplate">HubSpot Boilerplate Theme</a>
 </p>
